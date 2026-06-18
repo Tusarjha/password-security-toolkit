@@ -59,7 +59,7 @@ Generates random passwords containing:
 ```text
 Password-Security-Toolkit/
 │
-├── password_toolkit.py
+├── Password-security-toolkit.py
 ├── README.md
 ```
 
@@ -70,14 +70,14 @@ Password-Security-Toolkit/
 ### Clone the Repository
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/Tusarjha/password-security-toolkit
 cd Password-Security-Toolkit
 ```
 
 ### Run the Program
 
 ```bash
-python password_toolkit.py
+python-password-toolkit.py
 ```
 
 ---
